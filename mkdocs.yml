@@ -1,0 +1,4 @@
+site_name: VATPRC Docs
+site_url: https://docs.vatprc.net/
+theme:
+  name: material
